@@ -1,0 +1,7 @@
+---
+title: "This is a website of all time!"
+---
+
+This is a picture of mayo.
+
+<img src="materials/mayo.jpg" style="width:50%">
